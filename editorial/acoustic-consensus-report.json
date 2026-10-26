@@ -1,0 +1,816 @@
+{
+  "alignmentDemonstrated": true,
+  "alignmentWindows": [
+    {
+      "masterStart": 30,
+      "windowSeconds": 5,
+      "finalMinusMasterOffsetSeconds": 0.0,
+      "normalizedWaveformCorrelation": 0.9999047794414343
+    },
+    {
+      "masterStart": 90,
+      "windowSeconds": 5,
+      "finalMinusMasterOffsetSeconds": 0.0,
+      "normalizedWaveformCorrelation": 0.9998460234771955
+    },
+    {
+      "masterStart": 150,
+      "windowSeconds": 5,
+      "finalMinusMasterOffsetSeconds": 0.0,
+      "normalizedWaveformCorrelation": 0.9999156241244718
+    },
+    {
+      "masterStart": 210,
+      "windowSeconds": 5,
+      "finalMinusMasterOffsetSeconds": 0.0,
+      "normalizedWaveformCorrelation": 0.999903761378007
+    },
+    {
+      "masterStart": 270,
+      "windowSeconds": 5,
+      "finalMinusMasterOffsetSeconds": 0.0,
+      "normalizedWaveformCorrelation": 0.9999011061055803
+    },
+    {
+      "masterStart": 330,
+      "windowSeconds": 5,
+      "finalMinusMasterOffsetSeconds": 0.0,
+      "normalizedWaveformCorrelation": 0.9999218163453172
+    },
+    {
+      "masterStart": 390,
+      "windowSeconds": 5,
+      "finalMinusMasterOffsetSeconds": 0.0,
+      "normalizedWaveformCorrelation": 0.9999125916339475
+    },
+    {
+      "masterStart": 440,
+      "windowSeconds": 5,
+      "finalMinusMasterOffsetSeconds": 0.0,
+      "normalizedWaveformCorrelation": 0.9999294116756321
+    }
+  ],
+  "clusterIdentityMapsDiagnosticOnly": {
+    "final": {
+      "0": "victor",
+      "1": "hector",
+      "2": "daniel"
+    },
+    "master": {
+      "0": "daniel",
+      "1": "hector"
+    }
+  },
+  "masterIdentityRule": "Per-segment all-window anchor classification; master cluster 0 is mixed and its global majority is NOT used",
+  "independenceLimitation": "Same embedding model used on final and master. Cross-run agreement demonstrates mix/segmentation consistency, not independent model corroboration",
+  "criteria": {
+    "minSegmentSeconds": 1.2,
+    "minEveryWindowCosineExclusive": 0.6,
+    "minEveryWindowMarginExclusive": 0.2,
+    "trimEachIntersectionEdgeSeconds": 0.2,
+    "excludeStart": 293,
+    "excludeEnd": 296
+  },
+  "acceptedSpeechSeconds": 319.8406795501716,
+  "acceptedIntervals": 49,
+  "neutralSeconds": 147.2779874498284,
+  "decisions": [
+    {
+      "start": 2.0053439140319824,
+      "end": 7.793468952178955,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          2.2053439140319826,
+          7.593468952178955
+        ]
+      ]
+    },
+    {
+      "start": 8.198469161987305,
+      "end": 14.104719161987305,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          8.415344429016113,
+          13.904719161987305
+        ]
+      ]
+    },
+    {
+      "start": 14.66159439086914,
+      "end": 18.627220153808594,
+      "accepted": false,
+      "reason": "window mismatch or threshold failure"
+    },
+    {
+      "start": 19.0322208404541,
+      "end": 22.710969924926758,
+      "accepted": false,
+      "reason": "window mismatch or threshold failure"
+    },
+    {
+      "start": 23.065345764160156,
+      "end": 26.77784538269043,
+      "accepted": false,
+      "reason": "window mismatch or threshold failure"
+    },
+    {
+      "start": 28.127845764160156,
+      "end": 34.607845306396484,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          28.327845764160156,
+          34.40784530639648
+        ]
+      ]
+    },
+    {
+      "start": 34.995967864990234,
+      "end": 46.92659378051758,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          35.19596786499024,
+          46.726593780517575
+        ]
+      ]
+    },
+    {
+      "start": 48.107845306396484,
+      "end": 51.97222137451172,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          48.30784530639649,
+          51.772221374511716
+        ]
+      ]
+    },
+    {
+      "start": 52.8497200012207,
+      "end": 64.30784606933594,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          53.049720001220706,
+          64.10784606933593
+        ]
+      ]
+    },
+    {
+      "start": 65.40472412109375,
+      "end": 67.96971893310547,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          65.60472412109375,
+          67.76971893310547
+        ]
+      ]
+    },
+    {
+      "start": 69.38722229003906,
+      "end": 70.19721984863281,
+      "accepted": false,
+      "reason": "shorter than 1.2 s"
+    },
+    {
+      "start": 70.5178451538086,
+      "end": 77.85846710205078,
+      "accepted": true,
+      "identityCandidate": "daniel",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          70.7178451538086,
+          77.64159851074218
+        ]
+      ]
+    },
+    {
+      "start": 79.03971862792969,
+      "end": 84.03472137451172,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          79.23971862792969,
+          83.83472137451172
+        ]
+      ]
+    },
+    {
+      "start": 84.03472137451172,
+      "end": 85.84034729003906,
+      "accepted": false,
+      "reason": "window mismatch or threshold failure"
+    },
+    {
+      "start": 87.13972473144531,
+      "end": 93.6365966796875,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          87.33972473144532,
+          93.4365966796875
+        ]
+      ]
+    },
+    {
+      "start": 94.46347045898438,
+      "end": 97.66972351074219,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          94.66347045898438,
+          97.46972351074218
+        ]
+      ]
+    },
+    {
+      "start": 98.22659301757812,
+      "end": 103.10346984863281,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          98.42659301757813,
+          102.90346984863281
+        ]
+      ]
+    },
+    {
+      "start": 103.72784423828125,
+      "end": 106.90034484863281,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          103.92784423828125,
+          106.70034484863281
+        ]
+      ]
+    },
+    {
+      "start": 107.37284851074219,
+      "end": 110.98410034179688,
+      "accepted": false,
+      "reason": "window mismatch or threshold failure"
+    },
+    {
+      "start": 111.38909912109375,
+      "end": 113.66722106933594,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          111.60597534179688,
+          113.46722106933593
+        ]
+      ]
+    },
+    {
+      "start": 114.20722198486328,
+      "end": 119.75909423828125,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          114.40722198486328,
+          119.55909423828125
+        ]
+      ]
+    },
+    {
+      "start": 121.1428451538086,
+      "end": 130.7278594970703,
+      "accepted": true,
+      "identityCandidate": "daniel",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          121.3428451538086,
+          130.52785949707032
+        ]
+      ]
+    },
+    {
+      "start": 131.2509765625,
+      "end": 140.86973571777344,
+      "accepted": false,
+      "reason": "window mismatch or threshold failure"
+    },
+    {
+      "start": 141.3253631591797,
+      "end": 149.3409881591797,
+      "accepted": true,
+      "identityCandidate": "daniel",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          141.52536315917968,
+          149.1409881591797
+        ]
+      ]
+    },
+    {
+      "start": 151.88909912109375,
+      "end": 155.1966094970703,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          152.08909912109374,
+          154.99660949707032
+        ]
+      ]
+    },
+    {
+      "start": 155.7197265625,
+      "end": 167.0766143798828,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          155.9197265625,
+          166.87661437988282
+        ]
+      ]
+    },
+    {
+      "start": 167.68411254882812,
+      "end": 170.92410278320312,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          167.8841125488281,
+          170.72410278320314
+        ]
+      ]
+    },
+    {
+      "start": 171.41348266601562,
+      "end": 174.3497314453125,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          171.6134826660156,
+          174.1497314453125
+        ]
+      ]
+    },
+    {
+      "start": 175.0753631591797,
+      "end": 185.9934844970703,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          175.27536315917968,
+          185.79348449707032
+        ]
+      ]
+    },
+    {
+      "start": 187.1916046142578,
+      "end": 194.4816131591797,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          187.3916046142578,
+          194.2816131591797
+        ]
+      ]
+    },
+    {
+      "start": 195.1903533935547,
+      "end": 203.00347900390625,
+      "accepted": true,
+      "identityCandidate": "daniel",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          195.39035339355468,
+          202.80347900390626
+        ]
+      ]
+    },
+    {
+      "start": 203.3578643798828,
+      "end": 215.05223083496094,
+      "accepted": true,
+      "identityCandidate": "daniel",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          203.5578643798828,
+          214.85223083496095
+        ]
+      ]
+    },
+    {
+      "start": 215.35598754882812,
+      "end": 217.95472717285156,
+      "accepted": true,
+      "identityCandidate": "daniel",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          215.5559875488281,
+          217.75472717285157
+        ]
+      ]
+    },
+    {
+      "start": 218.4609832763672,
+      "end": 230.79661560058594,
+      "accepted": true,
+      "identityCandidate": "daniel",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          218.66098327636718,
+          230.59661560058595
+        ]
+      ]
+    },
+    {
+      "start": 231.84286499023438,
+      "end": 233.93536376953125,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          232.04286499023436,
+          233.73536376953126
+        ]
+      ]
+    },
+    {
+      "start": 234.4247283935547,
+      "end": 243.0141143798828,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          234.62472839355468,
+          242.81411437988282
+        ]
+      ]
+    },
+    {
+      "start": 243.52035522460938,
+      "end": 248.3466033935547,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          243.72035522460936,
+          248.1466033935547
+        ]
+      ]
+    },
+    {
+      "start": 248.97097778320312,
+      "end": 255.70411682128906,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          249.1709777832031,
+          255.50411682128907
+        ]
+      ]
+    },
+    {
+      "start": 256.1766052246094,
+      "end": 262.3697509765625,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          256.37660522460936,
+          262.1697509765625
+        ]
+      ]
+    },
+    {
+      "start": 263.5847473144531,
+      "end": 272.61285400390625,
+      "accepted": true,
+      "identityCandidate": "daniel",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          263.7847473144531,
+          272.41285400390626
+        ]
+      ]
+    },
+    {
+      "start": 273.0853576660156,
+      "end": 276.3591003417969,
+      "accepted": true,
+      "identityCandidate": "daniel",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          273.2853576660156,
+          276.1591003417969
+        ]
+      ]
+    },
+    {
+      "start": 276.7809753417969,
+      "end": 280.7466125488281,
+      "accepted": true,
+      "identityCandidate": "daniel",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          276.98097534179686,
+          280.54661254882814
+        ]
+      ]
+    },
+    {
+      "start": 281.3372497558594,
+      "end": 289.20098876953125,
+      "accepted": false,
+      "reason": "window mismatch or threshold failure"
+    },
+    {
+      "start": 289.5722351074219,
+      "end": 293.0316162109375,
+      "accepted": false,
+      "reason": "excluded cut window 293–296"
+    },
+    {
+      "start": 293.0316162109375,
+      "end": 294.4659729003906,
+      "accepted": false,
+      "reason": "window mismatch or threshold failure"
+    },
+    {
+      "start": 295.63037109375,
+      "end": 304.74285888671875,
+      "accepted": false,
+      "reason": "excluded cut window 293–296"
+    },
+    {
+      "start": 305.0634765625,
+      "end": 311.20599365234375,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          305.2634765625,
+          311.00599365234376
+        ]
+      ]
+    },
+    {
+      "start": 312.2859802246094,
+      "end": 313.3659973144531,
+      "accepted": false,
+      "reason": "shorter than 1.2 s"
+    },
+    {
+      "start": 313.66973876953125,
+      "end": 320.6222229003906,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          313.86973876953124,
+          320.42222290039064
+        ]
+      ]
+    },
+    {
+      "start": 321.8372497558594,
+      "end": 324.3009948730469,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          322.03724975585936,
+          324.1009948730469
+        ]
+      ]
+    },
+    {
+      "start": 324.9591064453125,
+      "end": 334.1053771972656,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          325.1591064453125,
+          333.90537719726564
+        ]
+      ]
+    },
+    {
+      "start": 334.729736328125,
+      "end": 338.42535400390625,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          334.929736328125,
+          338.22535400390626
+        ]
+      ]
+    },
+    {
+      "start": 338.9316101074219,
+      "end": 349.32659912109375,
+      "accepted": false,
+      "reason": "window mismatch or threshold failure"
+    },
+    {
+      "start": 349.6809997558594,
+      "end": 356.34661865234375,
+      "accepted": true,
+      "identityCandidate": "daniel",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          349.88099975585936,
+          356.14661865234376
+        ]
+      ]
+    },
+    {
+      "start": 356.83599853515625,
+      "end": 371.0278625488281,
+      "accepted": true,
+      "identityCandidate": "daniel",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          357.03599853515624,
+          370.82786254882814
+        ]
+      ]
+    },
+    {
+      "start": 371.8041076660156,
+      "end": 386.3841247558594,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          372.0041076660156,
+          386.1841247558594
+        ]
+      ]
+    },
+    {
+      "start": 387.2278747558594,
+      "end": 388.3753662109375,
+      "accepted": false,
+      "reason": "shorter than 1.2 s"
+    },
+    {
+      "start": 390.3666076660156,
+      "end": 391.22723388671875,
+      "accepted": false,
+      "reason": "shorter than 1.2 s"
+    },
+    {
+      "start": 391.682861328125,
+      "end": 402.1116027832031,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          391.882861328125,
+          401.8947265625
+        ]
+      ]
+    },
+    {
+      "start": 402.97222900390625,
+      "end": 406.026611328125,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          403.17222900390624,
+          405.826611328125
+        ]
+      ]
+    },
+    {
+      "start": 406.83660888671875,
+      "end": 409.9753723144531,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          407.03660888671874,
+          409.77537231445314
+        ]
+      ]
+    },
+    {
+      "start": 410.667236328125,
+      "end": 420.8766174316406,
+      "accepted": true,
+      "identityCandidate": "daniel",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          410.867236328125,
+          420.67661743164064
+        ]
+      ]
+    },
+    {
+      "start": 422.3447570800781,
+      "end": 435.0516052246094,
+      "accepted": true,
+      "identityCandidate": "hector",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          422.5447570800781,
+          434.8516052246094
+        ]
+      ]
+    },
+    {
+      "start": 436.01348876953125,
+      "end": 450.4416198730469,
+      "accepted": true,
+      "identityCandidate": "victor",
+      "reason": "same-identity intersection, all-window cosine>.60 margin>.20, trimmed .2s",
+      "acceptedIntersections": [
+        [
+          436.21348876953124,
+          450.2416198730469
+        ]
+      ]
+    },
+    {
+      "start": 451.437255859375,
+      "end": 457.3266296386719,
+      "accepted": false,
+      "identityCandidate": "victor",
+      "reason": "no acceptable master overlap",
+      "acceptedIntersections": []
+    }
+  ],
+  "humanListening": false,
+  "published": false
+}

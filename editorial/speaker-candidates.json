@@ -1,0 +1,1740 @@
+{
+  "schemaVersion": 1,
+  "media": {
+    "id": "episode-17059364b9ec",
+    "path": "00_Podcast/aprender-entre-pantallas-17059364b9ec.mp3",
+    "sha256": "17059364b9ec6fd8b6681d65052234a532ca3985e45c398df65d5f7a5f47f06a",
+    "durationSeconds": 467.118667
+  },
+  "intervals": [
+    {
+      "start": 1.62,
+      "end": 7.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-002"
+      ],
+      "text": "Lo que acabamos de ver es una escena creada para este episodio, nos sirve para plantear una pregunta.",
+      "sourceSegment": 0,
+      "cutCrossing": false
+    },
+    {
+      "start": 7.62,
+      "end": 13.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-002"
+      ],
+      "text": "¿Qué ocurre cuando un tema educativo se cuenta en distintos medios y cada pieza aporta algo propio?",
+      "sourceSegment": 1,
+      "cutCrossing": false
+    },
+    {
+      "start": 13.62,
+      "end": 18.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-008"
+      ],
+      "text": "Hoy hablaremos del impacto de la narrativa extranmedia en la educación,",
+      "sourceSegment": 2,
+      "cutCrossing": false
+    },
+    {
+      "start": 18.62,
+      "end": 22.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-013"
+      ],
+      "text": "de las oportunidades y de los riesgos de la inteligencia artificial",
+      "sourceSegment": 3,
+      "cutCrossing": false
+    },
+    {
+      "start": 22.62,
+      "end": 26.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-018"
+      ],
+      "text": "y de lo que aprendemos al producir contenidos en equipo.",
+      "sourceSegment": 4,
+      "cutCrossing": false
+    },
+    {
+      "start": 27.62,
+      "end": 34.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-003"
+      ],
+      "text": "Bienvenidos a Aprender Entre Pantallas, un episodio para conversar sobre educación y cultura digital.",
+      "sourceSegment": 5,
+      "cutCrossing": false
+    },
+    {
+      "start": 34.62,
+      "end": 40.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-003"
+      ],
+      "text": "Soy Víctor Lozada y hoy me acompañan dos invitados para pensar cómo contar,",
+      "sourceSegment": 6,
+      "cutCrossing": false
+    },
+    {
+      "start": 40.62,
+      "end": 46.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-026"
+      ],
+      "text": "investigar y aprender en un entorno lleno de medios y herramientas digitales.",
+      "sourceSegment": 7,
+      "cutCrossing": false
+    },
+    {
+      "start": 46.62,
+      "end": 51.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-004"
+      ],
+      "text": "Está con nosotros Héctor Jara, Héctor, gracias por acompañarnos.",
+      "sourceSegment": 8,
+      "cutCrossing": false
+    },
+    {
+      "start": 52.62,
+      "end": 59.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-005"
+      ],
+      "text": "Gracias, Víctor. Me interesa conversar sobre cómo las historias y los recursos digitales",
+      "sourceSegment": 9,
+      "cutCrossing": false
+    },
+    {
+      "start": 59.62,
+      "end": 64.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-005"
+      ],
+      "text": "pueden acercar el aprendizaje a situaciones de la vida cotidiana.",
+      "sourceSegment": 10,
+      "cutCrossing": false
+    },
+    {
+      "start": 64.62,
+      "end": 68.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-006"
+      ],
+      "text": "También nos acompaña Daniel De León.",
+      "sourceSegment": 11,
+      "cutCrossing": false
+    },
+    {
+      "start": 68.62,
+      "end": 73.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "daniel"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-007"
+      ],
+      "text": "Muchas gracias. Vamos a mirar el tema desde la creación de contenidos,",
+      "sourceSegment": 12,
+      "cutCrossing": false
+    },
+    {
+      "start": 73.62,
+      "end": 78.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "daniel"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-007"
+      ],
+      "text": "el uso responsable de la inteligencia artificial y el trabajo colaborativo.",
+      "sourceSegment": 13,
+      "cutCrossing": false
+    },
+    {
+      "start": 78.62,
+      "end": 86.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-008"
+      ],
+      "text": "Empecemos por la primera pregunta. ¿Qué impacto tienen las narrativas transmedias en la educación actual?",
+      "sourceSegment": 14,
+      "cutCrossing": false
+    },
+    {
+      "start": 86.62,
+      "end": 93.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-009"
+      ],
+      "text": "Una narrativa transmedia no consiste simplemente en repetir el mismo mensaje en varias plataformas.",
+      "sourceSegment": 15,
+      "cutCrossing": false
+    },
+    {
+      "start": 93.62,
+      "end": 100.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-025"
+      ],
+      "text": "Henry Jenkins explica en su artículo 2007 que cada medio puede aportar una parte distinta",
+      "sourceSegment": 16,
+      "cutCrossing": false
+    },
+    {
+      "start": 100.62,
+      "end": 103.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-008"
+      ],
+      "text": "a una experiencia narrativa.",
+      "sourceSegment": 17,
+      "cutCrossing": false
+    },
+    {
+      "start": 103.62,
+      "end": 110.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-013"
+      ],
+      "text": "En nuestro ejemplo, el video presenta el problema. Un podcast podría recoger distintas perspectivas",
+      "sourceSegment": 18,
+      "cutCrossing": false
+    },
+    {
+      "start": 110.62,
+      "end": 116.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-025"
+      ],
+      "text": "y un mapa ayudaría a ubicarlos. Cada formato aporta información",
+      "sourceSegment": 19,
+      "cutCrossing": false
+    },
+    {
+      "start": 116.62,
+      "end": 120.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-006"
+      ],
+      "text": "y una manera diferente de acercarse al tema.",
+      "sourceSegment": 20,
+      "cutCrossing": false
+    },
+    {
+      "start": 120.62,
+      "end": 125.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-004"
+      ],
+      "text": "Y no solo eso. Carlos Escolar y en 2013 describe estas narrativas como relatos",
+      "sourceSegment": 21,
+      "cutCrossing": false
+    },
+    {
+      "start": 125.62,
+      "end": 130.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-012"
+      ],
+      "text": "que expanden por diversos medios y que pueden invitar a las audiencias a participar.",
+      "sourceSegment": 22,
+      "cutCrossing": false
+    },
+    {
+      "start": 130.62,
+      "end": 135.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-012"
+      ],
+      "text": "En educación, por ejemplo, esto permite que el estudiante no solo recibe información,",
+      "sourceSegment": 23,
+      "cutCrossing": false
+    },
+    {
+      "start": 135.62,
+      "end": 140.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-025"
+      ],
+      "text": "también puede explorar, relacionar la pieza y producir su propia respuesta.",
+      "sourceSegment": 24,
+      "cutCrossing": false
+    },
+    {
+      "start": 140.62,
+      "end": 145.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-023"
+      ],
+      "text": "La convergencia de medios también cambia la relación entre quienes creen y quienes participan,",
+      "sourceSegment": 25,
+      "cutCrossing": false
+    },
+    {
+      "start": 145.62,
+      "end": 149.62,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-006"
+      ],
+      "text": "como explica Jenkins en su libro de 2006.",
+      "sourceSegment": 26,
+      "cutCrossing": false
+    },
+    {
+      "start": 149.62,
+      "end": 155.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-006"
+      ],
+      "text": "Y no hace falta llenar la actividad de aplicaciones.",
+      "sourceSegment": 27,
+      "cutCrossing": false
+    },
+    {
+      "start": 155.38,
+      "end": 161.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-008"
+      ],
+      "text": "Proloys y Dimulans en el 2022 presentan una integración transmedia",
+      "sourceSegment": 28,
+      "cutCrossing": false
+    },
+    {
+      "start": 161.38,
+      "end": 167.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-013"
+      ],
+      "text": "para la enseñanza que puede diseñarse con herramientas digitales accesibles.",
+      "sourceSegment": 29,
+      "cutCrossing": false
+    },
+    {
+      "start": 167.38,
+      "end": 174.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-011"
+      ],
+      "text": "Lo importante es que cada formato tenga una función y ayude a alcanzar el objetivo de aprendizaje.",
+      "sourceSegment": 30,
+      "cutCrossing": false
+    },
+    {
+      "start": 174.38,
+      "end": 181.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-012"
+      ],
+      "text": "Entonces, el valor no está en usar más plataformas, sino en que cada una amplie la comprensión,",
+      "sourceSegment": 31,
+      "cutCrossing": false
+    },
+    {
+      "start": 181.38,
+      "end": 186.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-012"
+      ],
+      "text": "idea del estudiante una forma significativa de participar.",
+      "sourceSegment": 32,
+      "cutCrossing": false
+    },
+    {
+      "start": 186.38,
+      "end": 188.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-013"
+      ],
+      "text": "Pasemos a la segunda pregunta.",
+      "sourceSegment": 33,
+      "cutCrossing": false
+    },
+    {
+      "start": 188.38,
+      "end": 194.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-013"
+      ],
+      "text": "¿Qué oportunidades y riesgos implican los contenidos generados con inteligencia artificial?",
+      "sourceSegment": 34,
+      "cutCrossing": false
+    },
+    {
+      "start": 194.38,
+      "end": 199.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-025"
+      ],
+      "text": "Bueno, la idea puede ayudar a proponer ideas, organizar un borrador,",
+      "sourceSegment": 35,
+      "cutCrossing": false
+    },
+    {
+      "start": 199.38,
+      "end": 203.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-008"
+      ],
+      "text": "adaptar un texto o explorar explicaciones iniciales.",
+      "sourceSegment": 36,
+      "cutCrossing": false
+    },
+    {
+      "start": 203.38,
+      "end": 208.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-008"
+      ],
+      "text": "En Colombia, por ejemplo, el don es reportado en 2025 con datos del NTIC,",
+      "sourceSegment": 37,
+      "cutCrossing": false
+    },
+    {
+      "start": 208.38,
+      "end": 215.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-013"
+      ],
+      "text": "hogar de 2024, que el 18% de las personas de 5 años o más que usaron internet",
+      "sourceSegment": 38,
+      "cutCrossing": false
+    },
+    {
+      "start": 215.38,
+      "end": 218.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "daniel"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-007"
+      ],
+      "text": "utilizaron inteligencia artificial generativa.",
+      "sourceSegment": 39,
+      "cutCrossing": false
+    },
+    {
+      "start": 218.38,
+      "end": 225.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-022"
+      ],
+      "text": "Entre quienes la utilizaron, el 80.7% señaló usos académicos, profesionales o laborales.",
+      "sourceSegment": 40,
+      "cutCrossing": false
+    },
+    {
+      "start": 225.38,
+      "end": 231.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-027"
+      ],
+      "text": "Son datos de uso, no una prueba automática que la herramienta mejore el aprendizaje.",
+      "sourceSegment": 41,
+      "cutCrossing": false
+    },
+    {
+      "start": 231.38,
+      "end": 234.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-006"
+      ],
+      "text": "Por eso necesitamos criterio.",
+      "sourceSegment": 42,
+      "cutCrossing": false
+    },
+    {
+      "start": 234.38,
+      "end": 239.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-023"
+      ],
+      "text": "La guía de la UNESCO, elaborada por Miau y Olmes, en el 2023,",
+      "sourceSegment": 43,
+      "cutCrossing": false
+    },
+    {
+      "start": 239.38,
+      "end": 243.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-018"
+      ],
+      "text": "recomienda un enfoque centrado en las personas,",
+      "sourceSegment": 44,
+      "cutCrossing": false
+    },
+    {
+      "start": 243.38,
+      "end": 248.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-008"
+      ],
+      "text": "con atención a la privacidad, la transparencia y la validación pedagónica.",
+      "sourceSegment": 45,
+      "cutCrossing": false
+    },
+    {
+      "start": 248.38,
+      "end": 253.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "daniel"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-007"
+      ],
+      "text": "Una respuesta de inteligencia artificial puede contener errores,",
+      "sourceSegment": 46,
+      "cutCrossing": false
+    },
+    {
+      "start": 253.38,
+      "end": 256.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-027"
+      ],
+      "text": "simplificar un tema o reflejar sesgos.",
+      "sourceSegment": 47,
+      "cutCrossing": false
+    },
+    {
+      "start": 256.38,
+      "end": 263.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "daniel"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-007"
+      ],
+      "text": "El estudiante y el docente siguen siendo responsables de revisar lo que se publica.",
+      "sourceSegment": 48,
+      "cutCrossing": false
+    },
+    {
+      "start": 263.38,
+      "end": 268.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-006"
+      ],
+      "text": "Claro, también hay evidencia de beneficios, aunque depende de cómo se use.",
+      "sourceSegment": 49,
+      "cutCrossing": false
+    },
+    {
+      "start": 268.38,
+      "end": 276.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-023"
+      ],
+      "text": "En 2025, DN y sus colegas publicaron una revisión y metaanálisis de 69 estudios experimentales",
+      "sourceSegment": 50,
+      "cutCrossing": false
+    },
+    {
+      "start": 276.38,
+      "end": 281.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-023"
+      ],
+      "text": "y hallaron efectos promedios favorables de CHASGPT en el aprendizaje.",
+      "sourceSegment": 51,
+      "cutCrossing": false
+    },
+    {
+      "start": 281.38,
+      "end": 284.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-006"
+      ],
+      "text": "Los doctores, sin embargo, señalan límites en los estudios",
+      "sourceSegment": 52,
+      "cutCrossing": false
+    },
+    {
+      "start": 284.38,
+      "end": 289.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "daniel"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-024"
+      ],
+      "text": "y la necesidad de examinar mejor los efectos a largo plazo.",
+      "sourceSegment": 53,
+      "cutCrossing": false
+    },
+    {
+      "start": 289.38,
+      "end": 291.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-004"
+      ],
+      "text": "No basta con incorporar la herramienta,",
+      "sourceSegment": 54,
+      "cutCrossing": false
+    },
+    {
+      "start": 291.38,
+      "end": 294.38,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-023"
+      ],
+      "text": "hay que definir la carea y evaluar el resultado.",
+      "sourceSegment": 55,
+      "cutCrossing": false
+    },
+    {
+      "start": 294.38,
+      "end": 294.5,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-017"
+      ],
+      "text": "La oportunidad, entonces, es usarla como apoyo para pensar y crear.",
+      "sourceSegment": 56,
+      "cutCrossing": true
+    },
+    {
+      "start": 294.48,
+      "end": 300.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-017"
+      ],
+      "text": "La oportunidad, entonces, es usarla como apoyo para pensar y crear.",
+      "sourceSegment": 56,
+      "cutCrossing": true
+    },
+    {
+      "start": 300.16,
+      "end": 304.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-017"
+      ],
+      "text": "El riesgo aparece cuando se acepta su respuesta sin contrastarla.",
+      "sourceSegment": 57,
+      "cutCrossing": false
+    },
+    {
+      "start": 304.16,
+      "end": 309.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-017"
+      ],
+      "text": "Se comparten datos personales o se reemplaza el proceso de aprendizaje",
+      "sourceSegment": 58,
+      "cutCrossing": false
+    },
+    {
+      "start": 309.16,
+      "end": 311.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-013"
+      ],
+      "text": "por un resultado automático.",
+      "sourceSegment": 59,
+      "cutCrossing": false
+    },
+    {
+      "start": 311.16,
+      "end": 316.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-018"
+      ],
+      "text": "La tercera pregunta, mira nuestro propio proceso.",
+      "sourceSegment": 60,
+      "cutCrossing": false
+    },
+    {
+      "start": 316.16,
+      "end": 321.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-018"
+      ],
+      "text": "¿Qué aprendizajes surgieron al crear este contenido de forma colaborativa?",
+      "sourceSegment": 61,
+      "cutCrossing": false
+    },
+    {
+      "start": 321.16,
+      "end": 328.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-019"
+      ],
+      "text": "Una reflexión que podemos compartir es que investigarnos significa acumular enlaces.",
+      "sourceSegment": 62,
+      "cutCrossing": false
+    },
+    {
+      "start": 328.16,
+      "end": 334.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-023"
+      ],
+      "text": "Víctor, tuvimos que distinguir entre una idea teórica, un dato y un ejemplo.",
+      "sourceSegment": 63,
+      "cutCrossing": false
+    },
+    {
+      "start": 334.16,
+      "end": 338.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-022"
+      ],
+      "text": "Luego, comprobar que cada afirmación tuviera respaldo.",
+      "sourceSegment": 64,
+      "cutCrossing": false
+    },
+    {
+      "start": 338.16,
+      "end": 342.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-006"
+      ],
+      "text": "También aprendimos a traducir conceptos como transmedia",
+      "sourceSegment": 65,
+      "cutCrossing": false
+    },
+    {
+      "start": 342.16,
+      "end": 347.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-023"
+      ],
+      "text": "a una explicación que pudiera seguir a una audiencia amplia.",
+      "sourceSegment": 66,
+      "cutCrossing": false
+    },
+    {
+      "start": 347.16,
+      "end": 349.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-006"
+      ],
+      "text": "Cierto, Daniel?",
+      "sourceSegment": 67,
+      "cutCrossing": false
+    },
+    {
+      "start": 349.16,
+      "end": 353.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-023"
+      ],
+      "text": "Claro, crear el equipo nos exigió acordar una pregunta común",
+      "sourceSegment": 68,
+      "cutCrossing": false
+    },
+    {
+      "start": 353.16,
+      "end": 356.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-018"
+      ],
+      "text": "y distribuir tareas sin perder el hilo de la conversación.",
+      "sourceSegment": 69,
+      "cutCrossing": false
+    },
+    {
+      "start": 356.16,
+      "end": 360.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-027"
+      ],
+      "text": "La investigación de Scholes y sus colegas publicando 2023",
+      "sourceSegment": 70,
+      "cutCrossing": false
+    },
+    {
+      "start": 360.16,
+      "end": 363.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-004"
+      ],
+      "text": "sobre co-creación de podcast universitario",
+      "sourceSegment": 71,
+      "cutCrossing": false
+    },
+    {
+      "start": 363.16,
+      "end": 368.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-012"
+      ],
+      "text": "destaca precisamente el valor de involucrar a estudiantes en la producción",
+      "sourceSegment": 72,
+      "cutCrossing": false
+    },
+    {
+      "start": 368.16,
+      "end": 371.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-005"
+      ],
+      "text": "y reflexión sobre las enseñanzas y el aprendizaje.",
+      "sourceSegment": 73,
+      "cutCrossing": false
+    },
+    {
+      "start": 371.16,
+      "end": 374.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-021"
+      ],
+      "text": "Y al convertir la investigación en un guión",
+      "sourceSegment": 74,
+      "cutCrossing": false
+    },
+    {
+      "start": 374.16,
+      "end": 380.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-021"
+      ],
+      "text": "también debimos decidir qué dejar fuera, cuánto tiempo dedicar a cada pregunta",
+      "sourceSegment": 75,
+      "cutCrossing": false
+    },
+    {
+      "start": 380.16,
+      "end": 386.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-021"
+      ],
+      "text": "y cómo citar la fuente sin que la charla sonara como una lectura de bibliografía.",
+      "sourceSegment": 76,
+      "cutCrossing": false
+    },
+    {
+      "start": 386.16,
+      "end": 392.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-004"
+      ],
+      "text": "Mi estimado panelista, compañero,",
+      "sourceSegment": 77,
+      "cutCrossing": false
+    },
+    {
+      "start": 392.16,
+      "end": 396.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-022"
+      ],
+      "text": "ese paso nos ayuda a recordar que la forma también comunica.",
+      "sourceSegment": 78,
+      "cutCrossing": false
+    },
+    {
+      "start": 396.16,
+      "end": 400.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-022"
+      ],
+      "text": "Escuchar al otro, cuidar el ritmo y revisar juntos el resultado",
+      "sourceSegment": 79,
+      "cutCrossing": false
+    },
+    {
+      "start": 400.16,
+      "end": 402.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-006"
+      ],
+      "text": "son parte del aprendizaje.",
+      "sourceSegment": 80,
+      "cutCrossing": false
+    },
+    {
+      "start": 402.16,
+      "end": 406.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-023"
+      ],
+      "text": "Para cerrar, les propongo una idea final a cada uno.",
+      "sourceSegment": 81,
+      "cutCrossing": false
+    },
+    {
+      "start": 406.16,
+      "end": 410.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-023"
+      ],
+      "text": "¿Qué debería llevarse quien escucha este episodio?",
+      "sourceSegment": 82,
+      "cutCrossing": false
+    },
+    {
+      "start": 410.16,
+      "end": 415.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "daniel"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-024"
+      ],
+      "text": "Bueno, lo principal sería que la tecnología nos abre posibilidades",
+      "sourceSegment": 83,
+      "cutCrossing": false
+    },
+    {
+      "start": 415.16,
+      "end": 418.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "daniel"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-024"
+      ],
+      "text": "cuando sirve en un propósito educativo claro",
+      "sourceSegment": 84,
+      "cutCrossing": false
+    },
+    {
+      "start": 418.16,
+      "end": 421.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "daniel"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-024"
+      ],
+      "text": "y cuando evaluamos con cuidado lo que produce.",
+      "sourceSegment": 85,
+      "cutCrossing": false
+    },
+    {
+      "start": 421.16,
+      "end": 424.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-006"
+      ],
+      "text": "Y también hay que tener muy en cuenta",
+      "sourceSegment": 86,
+      "cutCrossing": false
+    },
+    {
+      "start": 424.16,
+      "end": 430.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-025"
+      ],
+      "text": "que una historia transmedia puede invitar a explorar y a participar",
+      "sourceSegment": 87,
+      "cutCrossing": false
+    },
+    {
+      "start": 430.16,
+      "end": 435.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "hector"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-025"
+      ],
+      "text": "siempre que cada pieza aporte sentido y no sea solo un adorno.",
+      "sourceSegment": 88,
+      "cutCrossing": false
+    },
+    {
+      "start": 435.16,
+      "end": 438.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-027"
+      ],
+      "text": "Gracias Héctor y Daniel.",
+      "sourceSegment": 89,
+      "cutCrossing": false
+    },
+    {
+      "start": 438.16,
+      "end": 442.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-026"
+      ],
+      "text": "Nos quedamos con una invitación, crear, participar y verificar.",
+      "sourceSegment": 90,
+      "cutCrossing": false
+    },
+    {
+      "start": 442.16,
+      "end": 447.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-026"
+      ],
+      "text": "Aprender entre pantallas también significa aprender a elegir",
+      "sourceSegment": 91,
+      "cutCrossing": false
+    },
+    {
+      "start": 447.16,
+      "end": 450.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-026"
+      ],
+      "text": "qué creemos y cómo lo contamos.",
+      "sourceSegment": 92,
+      "cutCrossing": false
+    },
+    {
+      "start": 450.16,
+      "end": 455.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-027"
+      ],
+      "text": "Un podcast de Víctor Lozada, Héctor Jara y Daniel de León.",
+      "sourceSegment": 93,
+      "cutCrossing": false
+    },
+    {
+      "start": 455.16,
+      "end": 457.16,
+      "kind": "unknown",
+      "speakerIds": [],
+      "suggestedSpeakerIds": [
+        "victor"
+      ],
+      "reviewStatus": "pending",
+      "reviewer": "",
+      "reviewedAt": null,
+      "sourceTurnIds": [
+        "turn-027"
+      ],
+      "text": "Gracias por escucharnos.",
+      "sourceSegment": 94,
+      "cutCrossing": false
+    }
+  ],
+  "notes": "Text similarity suggestions only. Not acoustic identity or alignment. Crossing cut split for manual realignment; adlibs require listening."
+}

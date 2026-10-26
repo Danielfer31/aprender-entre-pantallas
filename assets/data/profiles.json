@@ -1,0 +1,27 @@
+{
+  "victor": {
+    "name": "Víctor Losada",
+    "fullName": "Víctor Andrés Losada Bermeo",
+    "profession": "Ingeniero agroecólogo",
+    "biography": [
+      "Instructor agrícola del SENA.",
+      "Maestrante en Innovación Educativa con Inteligencia Artificial."
+    ]
+  },
+  "hector": {
+    "fullName": "Héctor Jamez Jara Londoño",
+    "profession": "Médico veterinario y zootecnista",
+    "biography": [
+      "Especialista en Producción Bovina Tropical. Instructor grado 20 del SENA Regional Córdoba, vinculado al sector ganadero.",
+      "Su labor se desarrolla principalmente en contextos rurales, acompañando a los aprendices en procesos de formación agropecuaria y promoviendo prácticas que integren productividad, bienestar animal y cuidado del ambiente."
+    ]
+  },
+  "daniel": {
+    "fullName": "Daniel Fernando De León Castro",
+    "profession": "Politólogo y especialista en Proyectos de Desarrollo",
+    "biography": [
+      "Investigador y generador de proyectos con énfasis en inteligencia artificial.",
+      "Maestrante en Innovación Educativa con énfasis en Inteligencia Artificial."
+    ]
+  }
+}

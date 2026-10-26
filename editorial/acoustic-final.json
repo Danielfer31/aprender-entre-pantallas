@@ -1,0 +1,404 @@
+{
+  "schemaVersion": 1,
+  "method": "sherpa-onnx segmentation + ERes2Net embeddings + clustering",
+  "label": "final",
+  "source": "aprender-entre-pantallas-17059364b9ec.mp3",
+  "sha256": "17059364b9ec6fd8b6681d65052234a532ca3985e45c398df65d5f7a5f47f06a",
+  "durationSeconds": 467.1186875,
+  "elapsedSeconds": 299.06299999999464,
+  "numClustersRequested": 3,
+  "intervals": [
+    {
+      "start": 2.0053439140319824,
+      "end": 7.793468952178955,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 8.198469161987305,
+      "end": 14.104719161987305,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 14.66159439086914,
+      "end": 18.627220153808594,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 19.0322208404541,
+      "end": 22.710969924926758,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 23.065345764160156,
+      "end": 26.77784538269043,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 28.127845764160156,
+      "end": 34.607845306396484,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 34.995967864990234,
+      "end": 46.92659378051758,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 48.107845306396484,
+      "end": 51.97222137451172,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 52.8497200012207,
+      "end": 64.30784606933594,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 65.40472412109375,
+      "end": 67.96971893310547,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 69.38722229003906,
+      "end": 70.19721984863281,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 70.5178451538086,
+      "end": 77.85846710205078,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 79.03971862792969,
+      "end": 84.03472137451172,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 84.03472137451172,
+      "end": 85.84034729003906,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 87.13972473144531,
+      "end": 93.6365966796875,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 94.46347045898438,
+      "end": 97.66972351074219,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 98.22659301757812,
+      "end": 103.10346984863281,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 103.72784423828125,
+      "end": 106.90034484863281,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 107.37284851074219,
+      "end": 110.98410034179688,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 111.38909912109375,
+      "end": 113.66722106933594,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 114.20722198486328,
+      "end": 119.75909423828125,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 121.1428451538086,
+      "end": 130.7278594970703,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 131.2509765625,
+      "end": 140.86973571777344,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 141.3253631591797,
+      "end": 149.3409881591797,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 151.88909912109375,
+      "end": 155.1966094970703,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 155.7197265625,
+      "end": 167.0766143798828,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 167.68411254882812,
+      "end": 170.92410278320312,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 171.41348266601562,
+      "end": 174.3497314453125,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 175.0753631591797,
+      "end": 185.9934844970703,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 187.1916046142578,
+      "end": 194.4816131591797,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 195.1903533935547,
+      "end": 203.00347900390625,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 203.3578643798828,
+      "end": 215.05223083496094,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 215.35598754882812,
+      "end": 217.95472717285156,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 218.4609832763672,
+      "end": 230.79661560058594,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 231.84286499023438,
+      "end": 233.93536376953125,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 234.4247283935547,
+      "end": 243.0141143798828,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 243.52035522460938,
+      "end": 248.3466033935547,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 248.97097778320312,
+      "end": 255.70411682128906,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 256.1766052246094,
+      "end": 262.3697509765625,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 263.5847473144531,
+      "end": 272.61285400390625,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 273.0853576660156,
+      "end": 276.3591003417969,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 276.7809753417969,
+      "end": 280.7466125488281,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 281.3372497558594,
+      "end": 289.20098876953125,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 289.5722351074219,
+      "end": 293.0316162109375,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 293.0316162109375,
+      "end": 294.4659729003906,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 295.63037109375,
+      "end": 304.74285888671875,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 305.0634765625,
+      "end": 311.20599365234375,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 312.2859802246094,
+      "end": 313.3659973144531,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 313.66973876953125,
+      "end": 320.6222229003906,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 321.8372497558594,
+      "end": 324.3009948730469,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 324.9591064453125,
+      "end": 334.1053771972656,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 334.729736328125,
+      "end": 338.42535400390625,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 338.9316101074219,
+      "end": 349.32659912109375,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 349.6809997558594,
+      "end": 356.34661865234375,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 356.83599853515625,
+      "end": 371.0278625488281,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 371.8041076660156,
+      "end": 386.3841247558594,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 387.2278747558594,
+      "end": 388.3753662109375,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 390.3666076660156,
+      "end": 391.22723388671875,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 391.682861328125,
+      "end": 402.1116027832031,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 402.97222900390625,
+      "end": 406.026611328125,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 406.83660888671875,
+      "end": 409.9753723144531,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 410.667236328125,
+      "end": 420.8766174316406,
+      "cluster": 2,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 422.3447570800781,
+      "end": 435.0516052246094,
+      "cluster": 1,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 436.01348876953125,
+      "end": 450.4416198730469,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    },
+    {
+      "start": 451.437255859375,
+      "end": 457.3266296386719,
+      "cluster": 0,
+      "reviewStatus": "pending"
+    }
+  ],
+  "humanListening": false,
+  "verified": false
+}

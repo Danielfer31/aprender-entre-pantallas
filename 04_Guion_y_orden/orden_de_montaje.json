@@ -1,0 +1,162 @@
+[
+  {
+    "numero": 1,
+    "bloque": "1. Contexto y reconocimiento",
+    "titulo": "La microcuenca / bajo evidencia",
+    "entrada_segundos": 0.0,
+    "entrada_25fps": "00:00:00",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/01_Contexto/01_arroyo.png"
+  },
+  {
+    "numero": 2,
+    "bloque": "1. Contexto y reconocimiento",
+    "titulo": "Comprender el contexto",
+    "entrada_segundos": 4.6,
+    "entrada_25fps": "00:04:15",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/01_Contexto/02_contexto_urbano.png"
+  },
+  {
+    "numero": 3,
+    "bloque": "1. Contexto y reconocimiento",
+    "titulo": "Recorrer el territorio",
+    "entrada_segundos": 9.2,
+    "entrada_25fps": "00:09:05",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/01_Contexto/03_recorrido.png"
+  },
+  {
+    "numero": 4,
+    "bloque": "1. Contexto y reconocimiento",
+    "titulo": "Delimitar el problema",
+    "entrada_segundos": 13.8,
+    "entrada_25fps": "00:13:20",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/01_Contexto/04_reconocimiento_desde_puente.png"
+  },
+  {
+    "numero": 5,
+    "bloque": "2. Observación y escucha",
+    "titulo": "Observar los indicios",
+    "entrada_segundos": 18.4,
+    "entrada_25fps": "00:18:10",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/02_Observacion_y_escucha/05_indicios_residuos.png"
+  },
+  {
+    "numero": 6,
+    "bloque": "2. Observación y escucha",
+    "titulo": "Registrar lo observado",
+    "entrada_segundos": 23.0,
+    "entrada_25fps": "00:23:00",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/02_Observacion_y_escucha/06_observacion_de_campo.png"
+  },
+  {
+    "numero": 7,
+    "bloque": "2. Observación y escucha",
+    "titulo": "Documentar con cuidado",
+    "entrada_segundos": 27.6,
+    "entrada_25fps": "00:27:15",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/02_Observacion_y_escucha/07_registro_fotografico.png"
+  },
+  {
+    "numero": 8,
+    "bloque": "2. Observación y escucha",
+    "titulo": "Escuchar otras perspectivas",
+    "entrada_segundos": 32.2,
+    "entrada_25fps": "00:32:05",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/02_Observacion_y_escucha/08_escucha_de_perspectivas.png"
+  },
+  {
+    "numero": 9,
+    "bloque": "2. Observación y escucha",
+    "titulo": "Conservar el testimonio",
+    "entrada_segundos": 36.8,
+    "entrada_25fps": "00:36:20",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/02_Observacion_y_escucha/09_registro_sonoro.png"
+  },
+  {
+    "numero": 10,
+    "bloque": "3. Contraste de fuentes",
+    "titulo": "Consultar los registros",
+    "entrada_segundos": 41.4,
+    "entrada_25fps": "00:41:10",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/03_Contraste_de_fuentes/10_archivo_documental.png"
+  },
+  {
+    "numero": 11,
+    "bloque": "3. Contraste de fuentes",
+    "titulo": "Revisar la procedencia",
+    "entrada_segundos": 46.0,
+    "entrada_25fps": "00:46:00",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/03_Contraste_de_fuentes/11_revision_de_procedencia.png"
+  },
+  {
+    "numero": 12,
+    "bloque": "3. Contraste de fuentes",
+    "titulo": "Comparar las observaciones",
+    "entrada_segundos": 50.6,
+    "entrada_25fps": "00:50:15",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/03_Contraste_de_fuentes/12_comparacion_de_observaciones.png"
+  },
+  {
+    "numero": 13,
+    "bloque": "3. Contraste de fuentes",
+    "titulo": "Relacionar las piezas",
+    "entrada_segundos": 55.2,
+    "entrada_25fps": "00:55:05",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/03_Contraste_de_fuentes/13_mapa_de_relaciones.png"
+  },
+  {
+    "numero": 14,
+    "bloque": "3. Contraste de fuentes",
+    "titulo": "Reconocer lo que falta",
+    "entrada_segundos": 59.8,
+    "entrada_25fps": "00:59:20",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/03_Contraste_de_fuentes/14_vacios_de_informacion.png"
+  },
+  {
+    "numero": 15,
+    "bloque": "4. Deliberación y pregunta final",
+    "titulo": "Deliberar en equipo",
+    "entrada_segundos": 64.4,
+    "entrada_25fps": "01:04:10",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/04_Deliberacion/15_deliberacion_del_equipo.png"
+  },
+  {
+    "numero": 16,
+    "bloque": "4. Deliberación y pregunta final",
+    "titulo": "¿Qué evidencia falta / antes de intervenir?",
+    "entrada_segundos": 69.0,
+    "entrada_25fps": "01:09:00",
+    "duracion_fuente_segundos": 5,
+    "fundido_segundos": 0.4,
+    "archivo": "02_Planos/04_Deliberacion/16_pregunta_final.png"
+  }
+]

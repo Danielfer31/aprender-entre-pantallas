@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Contexto del episodio",
+    "start": 0,
+    "script": "00:20–00:55",
+    "image": "02_Planos/01_Contexto/01_arroyo.png",
+    "summary": "La escena plantea cómo distintos medios aportan partes propias de una historia educativa.",
+    "presentation_start": 20
+  },
+  {
+    "name": "Identificación del programa",
+    "start": 27.62,
+    "script": "00:55–01:15",
+    "image": "02_Planos/02_Observacion_y_escucha/09_registro_sonoro.png",
+    "summary": "Aprender entre pantallas. Educación y cultura digital. Anfitrión: Víctor Lozada.",
+    "presentation_start": 47.62
+  },
+  {
+    "name": "Presentación de los participantes",
+    "start": 46.62,
+    "script": "01:15–01:45",
+    "image": "02_Planos/03_Contraste_de_fuentes/13_mapa_de_relaciones.png",
+    "summary": "Víctor Lozada, anfitrión. Héctor Jara y Daniel De León, invitados.",
+    "presentation_start": 66.62
+  },
+  {
+    "name": "Pregunta 1 · Narrativas transmedia",
+    "start": 78.62,
+    "script": "01:45–03:10",
+    "image": "02_Planos/03_Contraste_de_fuentes/13_mapa_de_relaciones.png",
+    "summary": "Impacto en la educación: cada medio aporta información y abre formas de explorar, relacionar y participar.",
+    "presentation_start": 98.62
+  },
+  {
+    "name": "Pregunta 2 · Oportunidades y riesgos de la IA",
+    "start": 186.38,
+    "script": "03:10–04:35",
+    "image": "02_Planos/03_Contraste_de_fuentes/11_revision_de_procedencia.png",
+    "summary": "Apoyo para crear y organizar ideas; revisión de fuentes, privacidad, sesgos y validación pedagógica.",
+    "presentation_start": 206.38
+  },
+  {
+    "name": "Pregunta 3 · Creación colaborativa",
+    "start": 311.16,
+    "script": "04:35–05:45",
+    "image": "02_Planos/04_Deliberacion/15_deliberacion_del_equipo.png",
+    "summary": "Acuerdos, distribución de tareas, investigación, escritura, escucha y revisión conjunta.",
+    "presentation_start": 331.16
+  },
+  {
+    "name": "Cierre de la conversación",
+    "start": 402.16,
+    "script": "05:45–06:20",
+    "image": "02_Planos/04_Deliberacion/16_pregunta_final.png",
+    "summary": "Crear, participar y verificar. Tecnología al servicio de un propósito educativo claro.",
+    "presentation_start": 422.16
+  },
+  {
+    "name": "Créditos",
+    "start": 450.16,
+    "script": "06:20–06:30",
+    "image": "02_Planos/01_Contexto/01_arroyo.png",
+    "summary": "Un podcast de Víctor Lozada, Héctor Jara y Daniel De León.",
+    "presentation_start": 470.16
+  },
+  {
+    "name": "Aplausos y salida",
+    "start": 458.982667,
+    "script": "Añadido solicitado por el equipo",
+    "image": "02_Planos/01_Contexto/01_arroyo.png",
+    "summary": "Gracias por escucharnos.",
+    "presentation_start": 478.983
+  }
+]
